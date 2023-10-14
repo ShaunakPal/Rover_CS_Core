@@ -1,0 +1,10 @@
+int32 lf_vel
+int32 lf_dir
+int32 lb_vel
+int32 lb_dir
+int32 rf_vel
+int32 rf_dir
+int32 rb_vel
+int32 rb_dir
+int32 unassigned1
+int32 unassigned2

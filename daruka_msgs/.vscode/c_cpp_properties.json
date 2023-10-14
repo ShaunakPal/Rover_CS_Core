@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sumittahiliani/ros2_ws/install/tutorial_interfaces/include/**",
+        "/home/sumittahiliani/ros2_ws/install/turtlesim/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/sumittahiliani/ros2_ws/src/daruka_msgs/include/**",
+        "/home/sumittahiliani/ros2_ws/src/ros_tutorials/turtlesim/include/**",
+        "/home/sumittahiliani/ros2_ws/src/tutorial_interfaces/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

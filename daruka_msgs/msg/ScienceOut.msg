@@ -1,0 +1,17 @@
+int32 drill_dir
+int32 drill_vel
+int32 auger_vert_vel
+int32 auger_vert_dir
+int32 auger_hor_vel
+int32 auger_hor_dir
+int32 carousel_dir
+int32 carousel_vel
+int32 reagent_direction
+int32 reagent_speed
+int32 npk_servo
+int32 raman_vert_vel
+int32 raman_vert_dir
+int32 raman_hor_vel
+int32 raman_hor_dir
+int32 micro_dir
+int32 micro_speed

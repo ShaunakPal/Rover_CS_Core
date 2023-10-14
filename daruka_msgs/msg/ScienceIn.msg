@@ -1,0 +1,13 @@
+float32 temp
+float32 humidity
+float32 pressure
+char n
+char p
+char k
+char soiltemp
+char soilmoist
+char soilph
+float32 uva
+float32 uvb
+float32 uvindex
+int32 gas_sensor
